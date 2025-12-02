@@ -1,0 +1,10 @@
+{
+  _id: ObjectId('692f04b553e7984cd5b1ac88'),
+  nome: 'Amil',
+  cnpj: '11111111111111'
+}
+{
+  _id: ObjectId('692f04b553e7984cd5b1ac87'),
+  nome: 'Unimed',
+  cnpj: '00000000000100'
+}
