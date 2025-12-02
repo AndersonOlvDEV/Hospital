@@ -1,0 +1,24 @@
+
+  _id: ObjectId('692f06bd9332ea364d14b11c'),
+  data_hora: 2025-12-15T10:30:00.000Z,
+  id_medico: ObjectId('692eff184597b74e17cd5a78'),
+  id_paciente: ObjectId('692f03a13f9604b7b4976ede'),
+  diagnostico: 'Gripe sazonal, repouso e hidratação.',
+  status: 'Realizada'
+}
+
+{
+  _id: ObjectId('692f09ad90b7679683c040b6'),
+  data_hora: 2025-12-16T15:00:00.000Z,
+  id_medico: ObjectId('692f08d8779f9be10623e0f9'),
+  id_paciente: ObjectId('692f0948c03abb43dd7ae5a6'),
+  diagnostico: 'Check-up de rotina. Orientação aos pais sobre vacinas.',
+  status: 'Realizada'
+
+  _id: ObjectId('692f09b990b7679683c040b7'),
+  data_hora: 2025-12-17T09:00:00.000Z,
+  id_medico: ObjectId('692eff184597b74e17cd5a78'),
+  id_paciente: ObjectId('692f0948c03abb43dd7ae5a7'),
+  diagnostico: 'Acompanhamento cardiológico. Eletrocardiograma OK.',
+  status: 'Agendada'
+}
