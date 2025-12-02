@@ -1,0 +1,19 @@
+{
+  _id: ObjectId('692f0ba4361c0f1b9859c773'),
+  data_emissao: 2025-12-15T11:00:00.000Z,
+  id_medico: ObjectId('692eff184597b74e17cd5a78'),
+  id_paciente: ObjectId('692f03a13f9604b7b4976ede'),
+  medicamentos: [
+    {
+      nome: 'Paracetamol',
+      dosagem: '750mg',
+      frequencia: 'A cada 8 horas',
+      duracao: '5 dias'
+    },
+    {
+      nome: 'Soro Fisiológico',
+      uso: 'Para inalação, 3x ao dia'
+    }
+  ],
+  observacoes: 'Repouso e hidratação são essenciais.'
+}
